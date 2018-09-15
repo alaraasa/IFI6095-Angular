@@ -4,7 +4,10 @@
   "description": "Simple Angular 6 Todo App",
   "main": "index.js",
   "scripts": {
-    "ng": "ng"
+    "ng": "ng",
+    "serve": "ng serve --open",
+    "new": "ng new",
+    "generate": "ng generate"
   },
   "repository": {
     "type": "git",
