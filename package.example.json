@@ -1,0 +1,28 @@
+{
+  "name": "ifi6095-angular",
+  "version": "1.0.0",
+  "description": "Simple Angular 6 Todo App",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaraasa/IFI6095-Angular.git"
+  },
+  "keywords": [
+    "Angular",
+    "6",
+    "TODO",
+    "App"
+  ],
+  "author": "Alar Aasa, Kristjan Liiva",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alaraasa/IFI6095-Angular/issues"
+  },
+  "homepage": "https://github.com/alaraasa/IFI6095-Angular#readme",
+  "dependencies": {
+    "@angular/cli": "^6.2.2"
+  }
+}
